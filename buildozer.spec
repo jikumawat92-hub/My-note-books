@@ -1,9 +1,6 @@
-[app]
+
 [app]
 
-title = My Notes
-package.name = mynotes
-package.domain = org.example
 title = My Notes
 package.name = mynotes
 package.domain = org.example
